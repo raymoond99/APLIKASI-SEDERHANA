@@ -1,3 +1,3 @@
-module pengelola-sampah
+module aplikasi-sederhana
 
-go 1.20
+go 1.23.1

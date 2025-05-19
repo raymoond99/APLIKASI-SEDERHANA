@@ -1,0 +1,14 @@
+[
+  {
+    "Nama": "botol sampah",
+    "Jumlah": 5
+  },
+  {
+    "Nama": "botol sampah",
+    "Jumlah": 2
+  },
+  {
+    "Nama": "kertas",
+    "Jumlah": 3
+  }
+]
