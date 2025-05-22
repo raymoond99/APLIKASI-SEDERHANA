@@ -10,5 +10,9 @@
   {
     "Nama": "kertas",
     "Jumlah": 3
+  },
+  {
+    "Nama": "kaca",
+    "Jumlah": 4
   }
 ]
